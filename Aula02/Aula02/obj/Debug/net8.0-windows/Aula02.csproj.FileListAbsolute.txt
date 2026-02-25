@@ -1,0 +1,16 @@
+C:\Users\labsfiap\Downloads\Aula02\Aula02\bin\Debug\net8.0-windows\Aula02.exe
+C:\Users\labsfiap\Downloads\Aula02\Aula02\bin\Debug\net8.0-windows\Aula02.deps.json
+C:\Users\labsfiap\Downloads\Aula02\Aula02\bin\Debug\net8.0-windows\Aula02.runtimeconfig.json
+C:\Users\labsfiap\Downloads\Aula02\Aula02\bin\Debug\net8.0-windows\Aula02.dll
+C:\Users\labsfiap\Downloads\Aula02\Aula02\bin\Debug\net8.0-windows\Aula02.pdb
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.csproj.GenerateResource.cache
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.AssemblyInfo.cs
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.dll
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\refint\Aula02.dll
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.pdb
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.genruntimeconfig.cache
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\ref\Aula02.dll
+C:\Users\labsfiap\Downloads\Aula02\Aula02\obj\Debug\net8.0-windows\Aula02.CadastroAluno.resources
